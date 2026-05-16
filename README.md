@@ -1,7 +1,7 @@
 # 2025_NYPD_Frisk_Project
 Personal Project of Data Analysis/Data Science To Investigate Frisk Data in NYC 2025
 
-**[Link to full PDF report]** | **[Link to Jupyter notebook]**
+**Full Report - [https://github.com/dashwk/2025_NYPD_Frisk_Project/blob/main/2025_frisk_report.pdf]** | **Jupyter Notebook - [https://github.com/dashwk/2025_NYPD_Frisk_Project/blob/main/sqf-2025.ipynb]**
 
 ## Summary
 
